@@ -7,3 +7,6 @@ generality of these algorithms, because the same algorithm which classifies leaf
 between anime-characters.
 
 Following are some of the screenshots showcasingperformance on different datasets.
+
+![Leaf Classification](https://github.com/vaibhav369/image-classification/blob/master/results/leaf_classification.PNG)
+![Anime Characters Classification](https://github.com/vaibhav369/image-classification/blob/master/results/anime-characters.PNG)
